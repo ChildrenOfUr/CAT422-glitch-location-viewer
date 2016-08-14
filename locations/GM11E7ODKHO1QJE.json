@@ -1,5 +1,5 @@
 {
-    "tsid": "LM11E7ODKHO1QJE",
+    "tsid": "GM11E7ODKHO1QJE",
     "label": "Wintry Place",
     "hub_id": "66",
     "mote_id": "9",
@@ -186,7 +186,7 @@
                         "z": 85
                     },
                     {
-                        "filename": "k03_snowcube_01.svg.svg",
+                        "filename": "k03_snowcube_01.svg",
                         "w": 128,
                         "x": 1902,
                         "y": -306,
@@ -2112,6 +2112,5 @@
             "tsid": "IA9E9AESP4G3TS7",
             "label": "Grain"
         }
-    ],
-    "physics": {}
+    ]
 }
