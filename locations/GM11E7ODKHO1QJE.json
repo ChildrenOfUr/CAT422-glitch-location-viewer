@@ -1,5 +1,5 @@
 {
-    "tsid": "GM11E7ODKHO1QJE",
+    "tsid": "LM11E7ODKHO1QJE",
     "label": "Wintry Place",
     "hub_id": "66",
     "mote_id": "9",
@@ -578,7 +578,7 @@
                         "z": 57
                     },
                     {
-                        "filename": "k03_footprint_03.svg.svg",
+                        "filename": "k03_footprint_03.svg",
                         "w": 331,
                         "x": -1431,
                         "y": -109,
@@ -1520,7 +1520,7 @@
                         "z": 16
                     },
                     {
-                        "filename": "k02_cloud01.svg.svg",
+                        "filename": "k02_cloud01.svg",
                         "w": 394,
                         "x": 2005,
                         "y": 277,
@@ -1544,7 +1544,7 @@
                         "z": 1
                     },
                     {
-                        "filename": "k03_tree01_snow_01",
+                        "filename": "k03_tree01_snow_01.svg",
                         "w": 223,
                         "x": 1847,
                         "y": 784,
@@ -1552,7 +1552,7 @@
                         "z": 14
                     },
                     {
-                        "filename": "k03_treegroup_01",
+                        "filename": "k03_treegroup_01.svg",
                         "w": 303,
                         "x": 996,
                         "y": 694,
@@ -1560,7 +1560,7 @@
                         "z": 17
                     },
                     {
-                        "filename": "k03_pinchertree_01",
+                        "filename": "k03_pinchertree_01.svg",
                         "w": 233,
                         "x": 140,
                         "y": 816,
@@ -1576,7 +1576,7 @@
                         "z": 9
                     },
                     {
-                        "filename": "k03_tree01_snow_02",
+                        "filename": "k03_tree01_snow_02.svg",
                         "w": 168,
                         "x": 692,
                         "y": 799,
@@ -1632,7 +1632,7 @@
                         "z": 13
                     },
                     {
-                        "filename": "k03_pinchertree_02_branch2",
+                        "filename": "k03_pinchertree_02_branch2.svg",
                         "w": 193,
                         "r": 45,
                         "x": 131,
@@ -1657,7 +1657,7 @@
                         "z": 10
                     },
                     {
-                        "filename": "k03_tree02_snow_02",
+                        "filename": "k03_tree02_snow_02.svg",
                         "w": 157,
                         "x": 1475,
                         "y": 797,
@@ -1686,7 +1686,7 @@
                         "z": 27
                     },
                     {
-                        "filename": "k03_backgroundcloud_02",
+                        "filename": "k03_backgroundcloud_02.svg",
                         "w": 278,
                         "x": 31,
                         "y": 210,
