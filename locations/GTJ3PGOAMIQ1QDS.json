@@ -113,7 +113,7 @@
                         "w": 310
                     },
                     {
-	                        "filename": "platform_bottletree_steep_4_panel.svg",
+	                        "filename": "platform_bottletree_steep_4_panel.png",
                         "x": 2385,
                         "y": -252,
                         "z": 160,
@@ -122,7 +122,7 @@
                         "h_flip": true
                     },
                     {
-	                        "filename": "window_brown.svg",
+	                        "filename": "window_brown.png",
                         "r": -2,
                         "x": 2607,
                         "y": -374,
