@@ -384,7 +384,7 @@
                         "y": -79,
                         "z": 129,
                         "h": 38,
-                        "w": 194
+                        "w": 180
                     },
                     {
 	                        "filename": "grass_solid_5.png",
@@ -714,7 +714,7 @@
                         "y": -66,
                         "z": 39,
                         "h": 54,
-                        "w": 345
+                        "w": 256
                     },
                     {
 	                        "filename": "front_ground_set_2.png",
