@@ -113,7 +113,7 @@
                         "w": 310
                     },
                     {
-	                        "filename": "platform_bottletree_steep_4_panel.svg",
+	                        "filename": "platform_bottletree_steep_4_panel.png",
                         "x": 2385,
                         "y": -252,
                         "z": 160,
@@ -193,7 +193,7 @@
                         "w": 3889
                     },
                     {
-	                        "filename": "grass_solid_5.png",
+	                        "filename": "ground_generic_1_spotless.png",
                         "x": 2347,
                         "y": -240,
                         "z": 51,
