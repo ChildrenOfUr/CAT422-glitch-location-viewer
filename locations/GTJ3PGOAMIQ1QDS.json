@@ -185,7 +185,7 @@
                         "animated": true
                     },
                     {
-	                        "filename": "ground_generic_1_spotless.png",
+	                        "filename": "ground_generic_3_spotless.png",
                         "x": 1454,
                         "y": -122,
                         "z": 6,
@@ -193,7 +193,7 @@
                         "w": 3889
                     },
                     {
-	                        "filename": "grass_solid_5.png",
+	                        "filename": "ground_generic_1_spotless.png",
                         "x": 2347,
                         "y": -240,
                         "z": 51,
@@ -405,7 +405,7 @@
                         "w": 92
                     },
                     {
-	                        "filename": "grass_solid_5.png",
+	                        "filename": "ground_generic_1_spotless.png",
                         "r": 8,
                         "x": -990,
                         "y": -245,
@@ -422,7 +422,7 @@
                         "w": 72
                     },
                     {
-	                        "filename": "grass_solid_5.png",
+	                        "filename": "ground_generic_1_spotless.png",
                         "x": -1396,
                         "y": -198,
                         "z": 45,
@@ -463,7 +463,7 @@
                         "w": 60
                     },
                     {
-	                        "filename": "grass_solid_5.png",
+	                        "filename": "ground_generic_1_spotless.png",
                         "x": 1477,
                         "y": -242,
                         "z": 50,
@@ -471,7 +471,7 @@
                         "w": 791
                     },
                     {
-	                        "filename": "grass_solid_5.png",
+	                        "filename": "ground_generic_1_spotless.png",
                         "x": -2143,
                         "y": -193,
                         "z": 41,
@@ -682,7 +682,7 @@
                         "w": 115
                     },
                     {
-	                        "filename": "grass_solid_5.png",
+	                        "filename": "ground_generic_1_spotless.png",
                         "r": -5,
                         "x": -2272,
                         "y": -23,
@@ -801,7 +801,7 @@
                         "w": 703
                     },
                     {
-	                        "filename": "grass_solid_5.png",
+	                        "filename": "ground_generic_1_spotless.png",
                         "r": 8,
                         "x": -1120,
                         "y": -270,
@@ -837,7 +837,7 @@
                         "h_flip": true
                     },
                     {
-	                        "filename": "grass_solid_5.png",
+	                        "filename": "ground_generic_1_spotless.png",
                         "r": 12,
                         "x": 2963,
                         "y": -109,
@@ -1044,7 +1044,7 @@
                         "w": 227
                     },
                     {
-	                        "filename": "grass_solid_5.png",
+	                        "filename": "ground_generic_1_spotless.png",
                         "x": -573,
                         "y": -198,
                         "z": 42,
@@ -1288,7 +1288,7 @@
                         "w": 229
                     },
                     {
-	                        "filename": "grass_solid_5.png",
+	                        "filename": "ground_generic_1_spotless.png",
                         "r": 8,
                         "x": -1011,
                         "y": -294,
@@ -3139,7 +3139,7 @@
                         "x": 409,
                         "y": 556,
                         "z": 18,
-                        "h": 16,
+                        "h": 23,
                         "w": 43
                     },
                     {
@@ -3937,7 +3937,7 @@
                         "x": 3336,
                         "y": 471,
                         "z": 2,
-                        "h": 128,
+                        "h": 129,
                         "w": 1030
                     },
                     {
