@@ -368,12 +368,12 @@
                         "z": 93
                     },
                     {
-	                        "filename": "ladder_tile_cap_1_tree.png",
-                        "w": 82,
-                        "x": 165,
-                        "y": -73,
-                        "h": 50,
-                        "z": 140
+	                       "filename": "ladder_tile_cap_1_tree.png",
+						"w": 79,
+						"x": 165,
+						"y": -80,
+						"h": 44,
+						"z": 140
                     },
                     {
 	                        "filename": "groddle_shadow_spot_1.png",
