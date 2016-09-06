@@ -247,7 +247,7 @@
                     },
                     {
 	                        "filename": "ladder_tile_center_05_tree.png",
-                        "w": 110,
+                        "w": 64,
                         "x": 165,
                         "y": -172,
                         "h": 50,
@@ -582,7 +582,7 @@
                     },
                     {
 	                        "filename": "ladder_tile_cap_0_tree.png",
-                        "w": 110,
+                        "w": 64,
                         "x": 165,
                         "y": -644,
                         "h": 50,
@@ -688,7 +688,7 @@
                     },
                     {
 	                        "filename": "ladder_tile_center_05_tree.png",
-                        "w": 110,
+                        "w": 64,
                         "x": 165,
                         "y": -419,
                         "h": 50,
@@ -736,7 +736,7 @@
                     },
                     {
 	                        "filename": "ladder_tile_center_05_tree.png",
-                        "w": 110,
+                        "w": 64,
                         "x": 165,
                         "y": -271,
                         "h": 50,
@@ -744,7 +744,7 @@
                     },
                     {
 	                        "filename": "ladder_tile_center_05_tree.png",
-                        "w": 110,
+                        "w": 64,
                         "x": 165,
                         "y": -221,
                         "h": 50,
@@ -784,7 +784,7 @@
                     },
                     {
 	                        "filename": "ladder_tile_center_05_tree.png",
-                        "w": 110,
+                        "w": 64,
                         "x": 165,
                         "y": -122,
                         "h": 50,
@@ -1066,7 +1066,7 @@
                     },
                     {
 	                        "filename": "ladder_tile_center_05_tree.png",
-                        "w": 110,
+                        "w": 64,
                         "x": 165,
                         "y": -320,
                         "h": 50,
@@ -1163,7 +1163,7 @@
                     },
                     {
 	                        "filename": "ladder_tile_center_05_tree.png",
-                        "w": 110,
+                        "w": 64,
                         "x": 165,
                         "y": -369,
                         "h": 50,
