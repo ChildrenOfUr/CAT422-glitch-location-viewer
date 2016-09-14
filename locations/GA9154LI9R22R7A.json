@@ -1821,7 +1821,7 @@
                     {
 	                        "filename": "ladder_tile_cap_1_stone.png",
                         "w": 75,
-                        "x": -924,
+                        "x": -921,
                         "y": -405,
                         "h": 50,
                         "z": 255
@@ -3455,32 +3455,32 @@
                     },
                     {
 	                        "filename": "zutto_ladder_tile_center_03_stone.png",
-                        "w": 70,
-                        "x": -927,
+                        "w": 75,
+                        "x": -921,
                         "y": -603,
                         "h": 50,
                         "z": 251
                     },
                     {
 	                        "filename": "zutto_ladder_tile_center_03_stone.png",
-                        "w": 70,
-                        "x": -927,
+                        "w": 75,
+                        "x": -921,
                         "y": -503,
                         "h": 50,
                         "z": 253
                     },
                     {
 	                        "filename": "zutto_ladder_tile_center_01_stone.png",
-                        "w": 70,
-                        "x": -927,
+                        "w": 75,
+                        "x": -921,
                         "y": -553,
                         "h": 50,
                         "z": 252
                     },
                     {
 	                        "filename": "zutto_ladder_tile_center_01_stone.png",
-                        "w": 70,
-                        "x": -927,
+                        "w": 75,
+                        "x": -921,
                         "y": -454,
                         "h": 50,
                         "z": 254
