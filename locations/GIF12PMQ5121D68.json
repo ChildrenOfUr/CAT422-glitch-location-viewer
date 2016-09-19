@@ -1670,7 +1670,7 @@
                         "h": 200,
                         "y": -141,
                         "w": 150,
-                        "h_flip": true
+                        "h_flip": true,
                         "connects": [
                             {
                                 "x": 1120,
