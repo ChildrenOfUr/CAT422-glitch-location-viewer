@@ -689,24 +689,6 @@
             "w": 120
           },
           {
-            "filename": "door_dino_004.png",
-            "x": 3713,
-            "y": 795,
-            "z": 36,
-            "w": 400,
-            "h": 387
-          },
-          {
-            "filename": "bubble_test.png",
-            "x": 3800,
-            "y": 545,
-            "z": 37,
-            "h": 105,
-            "w": 137,
-            "r": 90,
-            "animated": true
-          },
-          {
             "filename": "grass_solid.png",
             "x": 5136,
             "y": 869,
@@ -741,6 +723,24 @@
           "brightness": 5
         },
         "decos": [
+          {
+            "filename": "door_dino_004.png",
+            "x": 713,
+            "y": -200,
+            "z": 200,
+            "w": 400,
+            "h": 387
+          },
+          {
+            "filename": "bubble_test.png",
+            "x": 800,
+            "y": -450,
+            "z": 201,
+            "h": 105,
+            "w": 137,
+            "r": 90,
+            "animated": true
+          },
           {
             "filename": "front_ground_2.png",
             "x": -899,
