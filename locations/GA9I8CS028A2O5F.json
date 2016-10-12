@@ -944,11 +944,11 @@
                     },
                     {
 	                        "filename": "bg2_mudflat1.png",
-                        "y": 345,
-                        "h": 543,
+                        "y": 145,
+                        "h": 243,
                         "z": 25,
-                        "w": 1753,
-                        "x": -65
+                        "w": 1453,
+                        "x": -365
                     },
                     {
 	                        "filename": "ground_spots_dark_1.png",
@@ -1925,11 +1925,11 @@
                     },
                     {
 	                        "filename": "bg2_mudflat1.png",
-                        "y": 348,
-                        "h": 510,
+                        "y": 48,
+                        "h": 210,
                         "z": 39,
-                        "w": 1753,
-                        "x": 2446
+                        "w": 1453,
+                        "x": 2146
                     },
                     {
 	                        "filename": "grass_transparent_scene_1.png",
@@ -1942,10 +1942,10 @@
                     {
 	                        "filename": "bg2_mudflat1.png",
                         "y": 24,
-                        "h": 200,
+                        "h": 145,
                         "z": 21,
-                        "w": 1101,
-                        "x": -2586
+                        "w": 1046,
+                        "x": -2531
                     },
                     {
 	                        "filename": "ground_spots_dark_1.png",
