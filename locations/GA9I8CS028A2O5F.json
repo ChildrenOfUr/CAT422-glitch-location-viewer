@@ -944,11 +944,11 @@
                     },
                     {
 	                        "filename": "bg2_mudflat1.png",
-                        "y": 45,
+                        "y": 345,
                         "h": 543,
                         "z": 25,
                         "w": 1753,
-                        "x": -365
+                        "x": -65
                     },
                     {
 	                        "filename": "ground_spots_dark_1.png",
