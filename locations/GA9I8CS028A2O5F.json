@@ -1941,11 +1941,11 @@
                     },
                     {
 	                        "filename": "bg2_mudflat1.png",
-                        "y": -224,
+                        "y": 24,
                         "h": 200,
                         "z": 21,
-                        "w": 1246,
-                        "x": -2431
+                        "w": 1101,
+                        "x": -2586
                     },
                     {
 	                        "filename": "ground_spots_dark_1.png",
