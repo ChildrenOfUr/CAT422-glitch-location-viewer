@@ -33,7 +33,7 @@
         "filters": {},
         "decos": [
           {
-            "filename": "ground_front_1500px.svg",
+            "filename": "ground_front_1500px.png",
             "w": 2356,
             "x": -854,
             "y": 0,
@@ -41,7 +41,7 @@
             "h": 55
           },
           {
-            "filename": "mound_01.svg",
+            "filename": "mound_01.png",
             "w": 110,
             "x": 366,
             "y": -111,
@@ -50,7 +50,7 @@
             "h_flip": true
           },
           {
-            "filename": "sign_up_01.svg",
+            "filename": "sign_up_01.png",
             "w": 182,
             "x": 1060,
             "y": -778,
@@ -58,7 +58,7 @@
             "h": 155
           },
           {
-            "filename": "sign_up_03.svg",
+            "filename": "sign_up_03.png",
             "w": 94,
             "x": 1015,
             "y": -2183,
@@ -66,7 +66,7 @@
             "h": 85
           },
           {
-            "filename": "vine_12.svg",
+            "filename": "vine_12.png",
             "w": 109,
             "x": -219,
             "y": -90,
@@ -74,7 +74,7 @@
             "h": 184
           },
           {
-            "filename": "cl2_houseTrunk.svg",
+            "filename": "cl2_houseTrunk.png",
             "w": 209,
             "r": -5,
             "x": 1891,
@@ -83,7 +83,7 @@
             "h": 209
           },
           {
-            "filename": "sign_up_02.svg",
+            "filename": "sign_up_02.png",
             "w": 168,
             "x": 876,
             "y": -1511,
@@ -91,7 +91,7 @@
             "h": 210
           },
           {
-            "filename": "cl2_pipeArrow_01.svg",
+            "filename": "cl2_pipeArrow_01.png",
             "w": 400,
             "r": -80,
             "x": 987,
@@ -100,7 +100,7 @@
             "h": 4
           },
           {
-            "filename": "signpost_ix_groddle.svg",
+            "filename": "signpost_ix_groddle.png",
             "w": 227,
             "x": 794,
             "y": -69,
@@ -108,7 +108,7 @@
             "h": 293
           },
           {
-            "filename": "groddle_ladder.svg",
+            "filename": "groddle_ladder.png",
             "x": 960,
             "y": -69,
             "z": 16,
@@ -116,7 +116,7 @@
             "w": 31
           },
           {
-            "filename": "ground_front_1500px.svg",
+            "filename": "ground_front_1500px.png",
             "w": 2356,
             "x": 1202,
             "y": 0,
@@ -124,7 +124,7 @@
             "h": 55
           },
           {
-            "filename": "tree_front_02.svg",
+            "filename": "tree_front_02.png",
             "w": 177,
             "r": -1,
             "x": 1299,
@@ -133,7 +133,7 @@
             "h": 378
           },
           {
-            "filename": "ground_front_2500px_02.svg",
+            "filename": "ground_front_2500px_02.png",
             "w": 2441,
             "x": -792,
             "y": -42,
@@ -141,7 +141,7 @@
             "h": 108
           },
           {
-            "filename": "ground_front_2500px_02.svg",
+            "filename": "ground_front_2500px_02.png",
             "w": 2441,
             "x": 1470,
             "y": -54,
@@ -872,7 +872,7 @@
         "filters": {},
         "decos": [
           {
-            "filename": "cloud_02_transp.svg",
+            "filename": "cloud_02_transp.png",
             "w": 511,
             "x": 116,
             "y": 746,
@@ -881,7 +881,7 @@
             "h_flip": true
           },
           {
-            "filename": "cloud_02_transp.svg",
+            "filename": "cloud_02_transp.png",
             "w": 451,
             "x": 3062,
             "y": 1974,
@@ -890,7 +890,7 @@
             "h_flip": true
           },
           {
-            "filename": "shrub_green_02.svg",
+            "filename": "shrub_green_02.png",
             "w": 234,
             "x": 395,
             "y": 3390,
@@ -898,7 +898,7 @@
             "h": 145
           },
           {
-            "filename": "cloud_02_transp.svg",
+            "filename": "cloud_02_transp.png",
             "w": 561,
             "x": 1924,
             "y": 2228,
@@ -906,7 +906,7 @@
             "h": 159
           },
           {
-            "filename": "cloud_03_transp.svg",
+            "filename": "cloud_03_transp.png",
             "w": 492,
             "x": 3342,
             "y": 668,
@@ -914,7 +914,7 @@
             "h": 157
           },
           {
-            "filename": "shrub_orange_01.svg",
+            "filename": "shrub_orange_01.png",
             "w": 140,
             "x": 2286,
             "y": 3396,
@@ -922,7 +922,7 @@
             "h": 215
           },
           {
-            "filename": "cloud_02_transp.svg",
+            "filename": "cloud_02_transp.png",
             "w": 561,
             "x": 1202,
             "y": 2611,
@@ -930,7 +930,7 @@
             "h": 159
           },
           {
-            "filename": "cloud_03_transp.svg",
+            "filename": "cloud_03_transp.png",
             "w": 492,
             "x": 4261,
             "y": 396,
@@ -938,7 +938,7 @@
             "h": 157
           },
           {
-            "filename": "cloud_02_transp.svg",
+            "filename": "cloud_02_transp.png",
             "w": 639,
             "x": 1197,
             "y": 1072,
@@ -959,7 +959,7 @@
         "filters": {},
         "decos": [
           {
-            "filename": "skyCrack_01_masked.svg",
+            "filename": "skyCrack_01_masked.png",
             "w": 1045,
             "x": 1989,
             "y": 629,
@@ -982,7 +982,7 @@
         },
         "decos": [
           {
-            "filename": "treeTrunk_01.svg",
+            "filename": "treeTrunk_01.png",
             "w": 105,
             "r": -5,
             "x": 1303,
@@ -991,7 +991,7 @@
             "h": 110
           },
           {
-            "filename": "cloud_03_transp.svg",
+            "filename": "cloud_03_transp.png",
             "w": 492,
             "x": 3054,
             "y": 1135,
@@ -999,7 +999,7 @@
             "h": 157
           },
           {
-            "filename": "ground_frontNew_top_04.svg",
+            "filename": "ground_frontNew_top_04.png",
             "w": 455,
             "x": 3613,
             "y": 2849,
@@ -1007,7 +1007,7 @@
             "h": 82
           },
           {
-            "filename": "ground_front_2500px_02.svg",
+            "filename": "ground_front_2500px_02.png",
             "w": 1952,
             "x": 2564,
             "y": 2829,
@@ -1015,7 +1015,7 @@
             "h": 86
           },
           {
-            "filename": "tree_front_02.svg",
+            "filename": "tree_front_02.png",
             "w": 122,
             "x": 522,
             "y": 2817,
@@ -1023,7 +1023,7 @@
             "h": 263
           },
           {
-            "filename": "ground_front_2500px_02.svg",
+            "filename": "ground_front_2500px_02.png",
             "w": 1952,
             "x": 616,
             "y": 2829,
@@ -1031,7 +1031,7 @@
             "h": 86
           },
           {
-            "filename": "ground_front_1500px.svg",
+            "filename": "ground_front_1500px.png",
             "w": 1656,
             "x": 2460,
             "y": 2864,
@@ -1039,7 +1039,7 @@
             "h": 38
           },
           {
-            "filename": "cloud_02_transp.svg",
+            "filename": "cloud_02_transp.png",
             "w": 451,
             "x": 2385,
             "y": 2378,
@@ -1047,7 +1047,7 @@
             "h": 128
           },
           {
-            "filename": "tree_front_01.svg",
+            "filename": "tree_front_01.png",
             "w": 137,
             "r": -5,
             "x": 3113,
@@ -1057,7 +1057,7 @@
             "h_flip": true
           },
           {
-            "filename": "cloud_03_transp.svg",
+            "filename": "cloud_03_transp.png",
             "w": 404,
             "x": 3434,
             "y": 1541,
@@ -1065,7 +1065,7 @@
             "h": 129
           },
           {
-            "filename": "cloud_03_transp.svg",
+            "filename": "cloud_03_transp.png",
             "w": 454,
             "x": 766,
             "y": 426,
@@ -1073,7 +1073,7 @@
             "h": 145
           },
           {
-            "filename": "mound_01.svg",
+            "filename": "mound_01.png",
             "w": 116,
             "x": 1230,
             "y": 2774,
@@ -1081,7 +1081,7 @@
             "h": 37
           },
           {
-            "filename": "ground_front_1500px.svg",
+            "filename": "ground_front_1500px.png",
             "w": 1656,
             "x": 810,
             "y": 2864,
@@ -1089,7 +1089,7 @@
             "h": 38
           },
           {
-            "filename": "ground_front_tile_750.svg",
+            "filename": "ground_front_tile_750.png",
             "w": 510,
             "x": 3517,
             "y": 2891,
@@ -1110,7 +1110,7 @@
         "filters": {},
         "decos": [
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 1532,
             "y": 2255,
@@ -1119,7 +1119,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 2441,
             "y": 1716,
@@ -1128,7 +1128,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 2003,
             "y": 447,
@@ -1137,7 +1137,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 2438,
             "y": 2173,
@@ -1146,7 +1146,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 206,
             "y": 1385,
@@ -1154,7 +1154,7 @@
             "h": 449
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 1988,
             "y": 1352,
@@ -1163,7 +1163,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "r": 180,
             "x": 1064,
@@ -1173,7 +1173,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "r": 180,
             "x": 632,
@@ -1182,7 +1182,7 @@
             "h": 449
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 210,
             "y": 2252,
@@ -1191,7 +1191,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 208,
             "y": 1822,
@@ -1200,7 +1200,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "r": 180,
             "x": 636,
@@ -1209,7 +1209,7 @@
             "h": 449
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "r": 180,
             "x": 220,
@@ -1218,7 +1218,7 @@
             "h": 449
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "r": 180,
             "x": 1095,
@@ -1228,7 +1228,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 1548,
             "y": 449,
@@ -1237,7 +1237,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 216,
             "y": 448,
@@ -1245,7 +1245,7 @@
             "h": 449
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 634,
             "y": 444,
@@ -1253,7 +1253,7 @@
             "h": 449
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 1523,
             "y": 901,
@@ -1262,7 +1262,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 644,
             "y": 1365,
@@ -1270,7 +1270,7 @@
             "h": 449
           },
           {
-            "filename": "skyCrack_01.svg",
+            "filename": "skyCrack_01.png",
             "w": 1045,
             "x": 1989,
             "y": 629,
@@ -1278,7 +1278,7 @@
             "h": 639
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 218,
             "y": 2686,
@@ -1287,7 +1287,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "r": 180,
             "x": 1083,
@@ -1297,7 +1297,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 1547,
             "y": 1353,
@@ -1306,7 +1306,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 2443,
             "y": 789,
@@ -1315,7 +1315,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 1974,
             "y": 2250,
@@ -1324,7 +1324,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 2441,
             "y": 2621,
@@ -1333,7 +1333,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 1984,
             "y": 1811,
@@ -1342,7 +1342,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "r": 180,
             "x": 1072,
@@ -1351,7 +1351,7 @@
             "h": 449
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 2443,
             "y": 353,
@@ -1360,7 +1360,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 2442,
             "y": 1253,
@@ -1369,7 +1369,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 1982,
             "y": 2650,
@@ -1378,7 +1378,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 1977,
             "y": 900,
@@ -1387,7 +1387,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "r": 180,
             "x": 1099,
@@ -1397,7 +1397,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "r": 180,
             "x": 628,
@@ -1406,7 +1406,7 @@
             "h": 449
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "r": 180,
             "x": 1085,
@@ -1416,7 +1416,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 1548,
             "y": 1801,
@@ -1425,7 +1425,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 1516,
             "y": 2729,
@@ -1434,7 +1434,7 @@
             "h_flip": true
           },
           {
-            "filename": "cl2_stars_tile_01.svg",
+            "filename": "cl2_stars_tile_01.png",
             "w": 449,
             "x": 664,
             "y": 896,
@@ -1457,7 +1457,7 @@
         },
         "decos": [
           {
-            "filename": "cloud_02_transp.svg",
+            "filename": "cloud_02_transp.png",
             "w": 451,
             "x": 2028,
             "y": 1276,
@@ -1466,7 +1466,7 @@
             "h_flip": true
           },
           {
-            "filename": "cloud_02_transp.svg",
+            "filename": "cloud_02_transp.png",
             "w": 451,
             "x": 1242,
             "y": 2163,
@@ -1474,7 +1474,7 @@
             "h": 128
           },
           {
-            "filename": "ground_front_1500px.svg",
+            "filename": "ground_front_1500px.png",
             "w": 1086,
             "x": 2694,
             "y": 2731,
@@ -1482,7 +1482,7 @@
             "h": 25
           },
           {
-            "filename": "ground_front_2500px_02.svg",
+            "filename": "ground_front_2500px_02.png",
             "w": 1361,
             "x": 656,
             "y": 2706,
@@ -1490,7 +1490,7 @@
             "h": 60
           },
           {
-            "filename": "ground_front_2500px_02.svg",
+            "filename": "ground_front_2500px_02.png",
             "w": 1361,
             "x": 3363,
             "y": 2707,
@@ -1498,7 +1498,7 @@
             "h": 60
           },
           {
-            "filename": "ground_front_1500px.svg",
+            "filename": "ground_front_1500px.png",
             "w": 1086,
             "x": 1612,
             "y": 2751,
@@ -1506,7 +1506,7 @@
             "h": 25
           },
           {
-            "filename": "cl2_gear_02.svg",
+            "filename": "cl2_gear_02.png",
             "w": 92,
             "x": 1540,
             "y": 2739,
@@ -1514,7 +1514,7 @@
             "h": 106
           },
           {
-            "filename": "ground_front_1500px.svg",
+            "filename": "ground_front_1500px.png",
             "w": 1086,
             "x": 2693,
             "y": 2752,
@@ -1522,7 +1522,7 @@
             "h": 25
           },
           {
-            "filename": "boulder_01.svg",
+            "filename": "boulder_01.png",
             "w": 198,
             "x": 157,
             "y": 2715,
@@ -1530,7 +1530,7 @@
             "h": 276
           },
           {
-            "filename": "ground_front_1500px.svg",
+            "filename": "ground_front_1500px.png",
             "w": 1086,
             "x": 1640,
             "y": 2750,
@@ -1538,7 +1538,7 @@
             "h": 25
           },
           {
-            "filename": "ground_front_1500px.svg",
+            "filename": "ground_front_1500px.png",
             "w": 1088,
             "x": 532,
             "y": 2750,
@@ -1546,7 +1546,7 @@
             "h": 25
           },
           {
-            "filename": "cloud_03_transp.svg",
+            "filename": "cloud_03_transp.png",
             "w": 492,
             "x": 1163,
             "y": 1063,
@@ -1554,7 +1554,7 @@
             "h": 157
           },
           {
-            "filename": "ground_front_1500px.svg",
+            "filename": "ground_front_1500px.png",
             "w": 1086,
             "x": 1620,
             "y": 2730,
@@ -1562,7 +1562,7 @@
             "h": 25
           },
           {
-            "filename": "cl2_gear_01.svg",
+            "filename": "cl2_gear_01.png",
             "w": 79,
             "x": 1461,
             "y": 2698,
@@ -1570,7 +1570,7 @@
             "h": 60
           },
           {
-            "filename": "cl2_cactus_Back_05.svg",
+            "filename": "cl2_cactus_Back_05.png",
             "w": 33,
             "x": 2402,
             "y": 2687,
@@ -1578,7 +1578,7 @@
             "h": 62
           },
           {
-            "filename": "cloud_03_transp.svg",
+            "filename": "cloud_03_transp.png",
             "w": 492,
             "x": 618,
             "y": 1559,
@@ -1586,7 +1586,7 @@
             "h": 157
           },
           {
-            "filename": "ground_front_2500px_02.svg",
+            "filename": "ground_front_2500px_02.png",
             "w": 1361,
             "x": 2010,
             "y": 2707,
@@ -1594,7 +1594,7 @@
             "h": 60
           },
           {
-            "filename": "cloud_03_transp.svg",
+            "filename": "cloud_03_transp.png",
             "w": 492,
             "x": 94,
             "y": 2019,
@@ -1602,7 +1602,7 @@
             "h": 157
           },
           {
-            "filename": "cloud_03_transp.svg",
+            "filename": "cloud_03_transp.png",
             "w": 492,
             "x": 2700,
             "y": 2006,
@@ -1611,7 +1611,7 @@
             "h_flip": true
           },
           {
-            "filename": "tree_front_01.svg",
+            "filename": "tree_front_01.png",
             "w": 65,
             "r": 5,
             "x": 720,
@@ -1621,7 +1621,7 @@
             "h_flip": true
           },
           {
-            "filename": "ground_front_1500px.svg",
+            "filename": "ground_front_1500px.png",
             "w": 1088,
             "x": 537,
             "y": 2730,
@@ -1642,7 +1642,7 @@
         "filters": {},
         "decos": [
           {
-            "filename": "shrub_green_02.svg",
+            "filename": "shrub_green_02.png",
             "w": 140,
             "x": 2957,
             "y": 2965,
@@ -1650,7 +1650,7 @@
             "h": 87
           },
           {
-            "filename": "cloud_02_transp.svg",
+            "filename": "cloud_02_transp.png",
             "w": 639,
             "x": 2104,
             "y": 626,
@@ -1658,7 +1658,7 @@
             "h": 181
           },
           {
-            "filename": "treeHouse_01.svg",
+            "filename": "treeHouse_01.png",
             "w": 614,
             "x": 966,
             "y": 3016,
