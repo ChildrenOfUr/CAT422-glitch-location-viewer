@@ -85,19 +85,19 @@
           {
             "filename": "sign_up_02.png",
             "w": 168,
-            "x": 876,
+            "x": 1015,
             "y": -1511,
             "z": 4,
             "h": 210
           },
           {
             "filename": "cl2_pipeArrow_01.png",
-            "w": 400,
+            "w": 182,
             "r": -80,
             "x": 987,
-            "y": -273,
+            "y": -473,
             "z": 3,
-            "h": 371
+            "h": 155
           },
           {
             "filename": "signpost_ix_groddle.png",
