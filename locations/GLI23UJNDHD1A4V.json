@@ -282,7 +282,7 @@
                 "filters": {},
                 "decos": [
                     {
-	                        "filename": "groddle_cloud_1.png",
+	                        "filename": "cloud_fluffy_1.png",
                         "z": 0,
                         "h": 335,
                         "w": 967,
@@ -729,7 +729,7 @@
                         "y": 704
                     },
                     {
-	                        "filename": "hill_bg1_1.png",
+	                        "filename": "hills_bg1_1.png",
                         "z": 20,
                         "h": 159,
                         "w": 1670,
