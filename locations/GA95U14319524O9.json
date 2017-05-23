@@ -116,7 +116,7 @@
                         "z": 22
                     },
                     {
-	                        "filename": "sign_blank_wide_firebog.png",
+	                        "filename": "sign_shareplots.png",
                         "w": 215,
                         "x": 1860,
                         "y": -332,
@@ -1435,14 +1435,6 @@
                         "z": 148
                     },
                     {
-	                        "filename": "firebog_sign_blank.png",
-                        "w": 425,
-                        "x": -2630,
-                        "y": -186,
-                        "h": 248,
-                        "z": 230
-                    },
-                    {
 	                        "filename": "ground_spots_dark_1.png",
                         "w": 314,
                         "x": -834,
@@ -1665,7 +1657,7 @@
                         "z": 174
                     },
                     {
-	                        "filename": "sign_blank_wide_firebog.png",
+	                        "filename": "sign_plantforeveryone.png",
                         "w": 230,
                         "x": -2629,
                         "y": -223,
