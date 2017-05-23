@@ -1028,15 +1028,6 @@
                         "y": -222
                     },
                     {
-	                        "filename": "underground_stalagtite.png",
-                        "z": 296,
-                        "h": 196,
-                        "w": 253,
-                        "r": 180,
-                        "x": -731,
-                        "y": -593
-                    },
-                    {
 	                        "filename": "ground_generic_1_spotless.png",
                         "z": 22,
                         "h": 129,
@@ -1937,15 +1928,6 @@
                         "y": -449
                     },
                     {
-	                        "filename": "underground_stalagtite.png",
-                        "z": 297,
-                        "h": 239,
-                        "w": 226,
-                        "r": 180,
-                        "x": -2538,
-                        "y": -660
-                    },
-                    {
 	                        "filename": "ground_cutaway_hollow3.png",
                         "z": 310,
                         "h": 26,
@@ -2695,15 +2677,6 @@
                         "y": -203
                     },
                     {
-	                        "filename": "underground_stalagtite.png",
-                        "z": 242,
-                        "h": 219,
-                        "w": 253,
-                        "r": 180,
-                        "x": 2341,
-                        "y": -357
-                    },
-                    {
 	                        "filename": "ground_generic_3.png",
                         "z": 42,
                         "h": 114,
@@ -2935,15 +2908,6 @@
                         "w": 310,
                         "x": -2340,
                         "y": -323
-                    },
-                    {
-	                        "filename": "underground_stalagtite.png",
-                        "z": 295,
-                        "h": 221,
-                        "w": 226,
-                        "r": 180,
-                        "x": -1807,
-                        "y": -636
                     },
                     {
 	                        "filename": "ground_cutaway_hollow3.png",
