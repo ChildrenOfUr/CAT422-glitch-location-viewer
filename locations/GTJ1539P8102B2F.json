@@ -865,15 +865,6 @@
                         "y": -402
                     },
                     {
-	                        "filename": "underground_stalagtite.png",
-                        "z": 294,
-                        "h": 193,
-                        "w": 226,
-                        "r": 180,
-                        "x": -1500,
-                        "y": -599
-                    },
-                    {
 	                        "filename": "front_ground_top.png",
                         "z": 198,
                         "h": 135,
@@ -912,15 +903,6 @@
                         "w": 2418,
                         "x": 574,
                         "y": 21
-                    },
-                    {
-	                        "filename": "underground_stalagtite.png",
-                        "z": 241,
-                        "h": 261,
-                        "w": 288,
-                        "r": 180,
-                        "x": 2277,
-                        "y": -389
                     },
                     {
 	                        "filename": "ground_generic_1_spotless.png",
