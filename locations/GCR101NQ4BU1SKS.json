@@ -2142,14 +2142,6 @@
                         "z": 160
                     },
                     {
-	                        "filename": "groddle_sign_blank.png",
-                        "h": 248,
-                        "w": 425,
-                        "x": 1603,
-                        "y": -163,
-                        "z": 363
-                    },
-                    {
 	                        "filename": "groddle_grass_2.png",
                         "h": 71,
                         "w": 88,
@@ -2764,14 +2756,6 @@
                         "y": -443,
                         "z": 237,
                         "h_flip": true
-                    },
-                    {
-	                        "filename": "groddle_sign_blank.png",
-                        "h": 248,
-                        "w": 425,
-                        "x": -913,
-                        "y": -335,
-                        "z": 364
                     },
                     {
 	                        "filename": "floating_platform_grass_02.png",
