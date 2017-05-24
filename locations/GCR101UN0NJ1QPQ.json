@@ -488,7 +488,7 @@
                         "z": 31
                     },
                     {
-	                        "filename": "sign_blank_wide_g1.png",
+	                        "filename": "sign_allplantgroddle.png",
                         "h": 122,
                         "w": 183,
                         "r": 3,
@@ -555,7 +555,7 @@
                         "z": 54
                     },
                     {
-	                        "filename": "sign_blank_wide_g1.png",
+	                        "filename": "sign_freeplantgroddle.png",
                         "h": 122,
                         "w": 173,
                         "x": 1515,
@@ -867,14 +867,6 @@
                         "z": 64
                     },
                     {
-	                        "filename": "groddle_sign_blank.png",
-                        "h": 248,
-                        "w": 425,
-                        "x": 1515,
-                        "y": -77,
-                        "z": 72
-                    },
-                    {
 	                        "filename": "dirt_platform_long.png",
                         "h": 67,
                         "w": 1226,
@@ -914,15 +906,6 @@
                         "x": 946,
                         "y": 18,
                         "z": 26
-                    },
-                    {
-	                        "filename": "groddle_sign_blank.png",
-                        "h": 248,
-                        "w": 425,
-                        "r": 2,
-                        "x": -2178,
-                        "y": -308,
-                        "z": 71
                     },
                     {
 	                        "filename": "bush_3.png",
