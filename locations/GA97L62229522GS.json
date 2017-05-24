@@ -404,7 +404,7 @@
                         "x": -43
                     },
                     {
-	                        "filename": "sign_blank_wide_firebog.png",
+	                        "filename": "sign_plantforeveryone.png",
                         "y": -173,
                         "h": 112,
                         "z": 274,
@@ -942,7 +942,7 @@
                         "x": -2299
                     },
                     {
-	                        "filename": "sign_blank_wide_firebog.png",
+	                        "filename": "sign_shareplots.png",
                         "y": -154,
                         "h": 112,
                         "z": 275,
@@ -1213,14 +1213,6 @@
                         "z": 246,
                         "w": 75,
                         "x": 2115
-                    },
-                    {
-	                        "filename": "firebog_sign_blank.png",
-                        "y": -123,
-                        "h": 248,
-                        "z": 276,
-                        "w": 425,
-                        "x": 1036
                     },
                     {
 	                        "filename": "legs_moss_noBase.png",
@@ -2261,14 +2253,6 @@
                         "z": 26,
                         "w": 704,
                         "x": -1333
-                    },
-                    {
-	                        "filename": "firebog_sign_blank.png",
-                        "y": -104,
-                        "h": 248,
-                        "z": 277,
-                        "w": 425,
-                        "x": -1474
                     },
                     {
 	                        "filename": "underground_plant_3.png",
