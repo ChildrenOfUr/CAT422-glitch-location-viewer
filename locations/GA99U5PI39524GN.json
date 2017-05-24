@@ -606,7 +606,7 @@
                         "z": 71
                     },
                     {
-	                        "filename": "sign_blank_wide_firebog.png",
+	                        "filename": "sign_plantforeveryone.png",
                         "w": 177,
                         "x": 1876,
                         "y": -166,
@@ -650,7 +650,7 @@
                         "z": 45
                     },
                     {
-	                        "filename": "sign_blank_wide_firebog.png",
+	                        "filename": "sign_shareplots.png",
                         "w": 177,
                         "x": -345,
                         "y": -213,
@@ -851,14 +851,6 @@
                         "z": 57
                     },
                     {
-	                        "filename": "firebog_sign_blank.png",
-                        "w": 425,
-                        "x": 1874,
-                        "y": -109,
-                        "h": 248,
-                        "z": 137
-                    },
-                    {
 	                        "filename": "legs_back_set2.png",
                         "w": 751,
                         "x": 564,
@@ -977,14 +969,6 @@
                         "y": -463,
                         "h": 57,
                         "z": 4
-                    },
-                    {
-	                        "filename": "firebog_sign_blank.png",
-                        "w": 425,
-                        "x": -347,
-                        "y": -156,
-                        "h": 248,
-                        "z": 136
                     },
                     {
 	                        "filename": "firebog_planter_box_2x3.png",
