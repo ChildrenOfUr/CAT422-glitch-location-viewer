@@ -1620,8 +1620,8 @@
                     },
                     {
 	                        "filename": "ladder_tile_center_01_interior.png",
-                        "y": -360,
-                        "h": 98,
+                        "y": -361,
+                        "h": 101,
                         "z": 176,
                         "w": 72,
                         "x": -2132
